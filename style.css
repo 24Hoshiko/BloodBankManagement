@@ -1,0 +1,32 @@
+#home{
+    background-image: url("backroundMain.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#id1{
+    
+    color:beige;
+    margin-left: 2rem;
+    font-size: 75px;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 7px 7px 0px black;
+    
+}
+
+button{
+
+    background: linear-gradient(to left,lightpink,white);
+    border-radius: 14px;
+    border: none;
+    
+    padding: 0.5rem 10rem;
+    font-size: 30px;
+    font-style:italic;
+    color:brown;
+    margin-left: 2rem;
+}
